@@ -2,7 +2,8 @@
 因数据隐私原因，此处只做kitti公开数据集的展示
 （Due to data privacy reasons, only the kitti public data set is displayed here）
 
-图片加载可能会比较慢
+**图片加载可能会比较慢**
+
 ## 输入 (Input)
 <p float="center">
   <img src="https://github.com/Kevin-1342/Demostration/blob/main/imgs/kitti_input.gif" width="400">
