@@ -1,12 +1,13 @@
-# Demostration
+# Demostration on Kitti Dataset
+因数据隐私原因，此处只做kitti公开数据集的展示
+（Due to data privacy reasons, only the kitti public data set is displayed here）
 
-## 输入
+## 输入 (Input)
 <p float="center">
   <img src="https://github.com/Kevin-1342/Demostration/blob/main/imgs/kitti_input.gif" width="400">
 </p>
 
-## 可控背景更换
-
+## 可控背景更换及维持多帧一致性 (Controllable Background Editing with View Consistency)
 Prompt: "Convert to a foggy day"
 <p float="center">
   <img src="https://github.com/Kevin-1342/Demostration/blob/main/imgs/kitti_foggy.gif" width="400">
@@ -25,20 +26,19 @@ Prompt: "Convert to Piet Mondrian painting"
   <img src="https://github.com/Kevin-1342/Demostration/blob/main/imgs/kitti_M_left_rotate.gif" width="400">
 </p>
 
-## 新视角生成
-
-左右平移，旋转
+## 自车新视角生成（New View Generation）
+左右平移，旋转（Move left and right, rotate）
 <p float="center">
   <img src="https://github.com/Kevin-1342/Demostration/blob/main/imgs/kitti_car_left_right_rotate.gif" width="400">
 </p>
 
-压线行驶
+模拟压线行驶（A simulation of driving on the solid lines）
 <p float="center">
   <img src="https://github.com/Kevin-1342/Demostration/blob/main/imgs/kitti_car_lane_right.gif" width="400">
 </p>
 
-## 前景障碍物编辑
-移动障碍物模拟碰撞
+## 前景障碍物编辑 （Foreground Editing）
+移动障碍物模拟碰撞（A simulation of car accident）
 <p float="center">
   <img src="https://github.com/Kevin-1342/Demostration/blob/main/imgs/kitti_car_move.gif" width="400">
 </p>
