@@ -45,12 +45,19 @@ Prompt: "Convert to Piet Mondrian painting"
   <img src="https://github.com/Kevin-1342/Demostration/blob/main/imgs/kitti_car_move.gif" width="400">
 </p>
 前景障碍物的跨场景融合及可控坐标编辑（Cross-scene fusion and controllable coordinate editing of foreground objects）
+
+输入(Input):
 <p float="center">
-  <img src="https://github.com/Kevin-1342/Demostration/blob/main/imgs/aidaydemo_1.gif" width="400">
+  <img src="https://github.com/Kevin-1342/Demostration/blob/main/imgs/input_1.gif" width="400">
+</p>
+
+输出(Output):
+<p float="center">
+  <img src="https://github.com/Kevin-1342/Demostration/blob/main/imgs/demo_1.gif" width="400">
 </p>
 <p float="center">
-  <img src="https://github.com/Kevin-1342/Demostration/blob/main/imgs/aidaydemo_2.gif" width="400">
+  <img src="https://github.com/Kevin-1342/Demostration/blob/main/imgs/demo_2.gif" width="400">
 </p>
 <p float="center">
-  <img src="https://github.com/Kevin-1342/Demostration/blob/main/imgs/aidaydemo_3.gif" width="400">
+  <img src="https://github.com/Kevin-1342/Demostration/blob/main/imgs/demo_3.gif" width="400">
 </p>
